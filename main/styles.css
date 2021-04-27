@@ -1,0 +1,43 @@
+#main {
+    background-color: gainsboro;
+    border-radius: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+  }
+  #image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  #img-div {
+    background-color: whitesmoke;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  #img-caption {
+    text-align: center;
+    margin-top: 10px;
+  }
+  #title, #sub-title {
+    text-align: center;
+    font-family: monospace;
+  }
+  #sub-title {
+    font-size: 14px;
+  }
+  #tribute-info {
+    text-align: left;
+    margin-left: 25%;
+    margin-right: 25%;
+  }
+  #list-title {
+    text-align: center;
+  }
+  h4 {
+    font-size: 18px;
+  }
